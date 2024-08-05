@@ -9,7 +9,7 @@ else{
 echo "\n";
 
 // Uso de else if 
-$a = 4; $b=6;
+$a = 2; $b=9;
 if ($a>$b){
     echo "a es mayor que b";
 } elseif ($a == $b){
