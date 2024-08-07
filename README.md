@@ -3,7 +3,7 @@
 En este respositorio, exploraremos la sintaxis básica de PHP, un lenguaje de programación ampliamente utilizado para el desarrollo web. Aprenderemos sobre las estructuras de control, las variables, y cómo escribir un script sencillo, desde su sintaxis basica, arreglos y funciones, integracion con HTML, POO y sus frameworks como Laravel y Symfony.
 
 
-####¿Como usar php en mi editor de codigo?
+### ¿Como usar php en mi editor de codigo?
 
 Se puede instalar xampp y php viene integrado para usar.
 
@@ -12,7 +12,7 @@ Ejemplo del uso de php en un editor de codigo, declarando al principio `<php>`
     <?php
         echo "Hello world!";
     ?>
-	####Temario de la ruta PHP
+###Temario de la ruta PHP
 
 1. Introducción a PHP
 2. Variables y tipos de datos
@@ -38,8 +38,6 @@ Traer datos con [PHP](https://oregoom.com/php/post/ "PHP")
 ##Conclusión
 
 Esperamos que esta introducción a la sintaxis básica de PHP te haya sido útil.
-
-
 
 
 
