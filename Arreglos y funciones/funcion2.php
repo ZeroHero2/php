@@ -11,4 +11,4 @@ function es_estudiante_legend($platzi_rank){
 $platzi_rank = (int)readline("Ingresa tu Platzi Rank: ");
 
 es_estudiante_legend($platzi_rank);
-echo "\n";
+echo "\n"; 
