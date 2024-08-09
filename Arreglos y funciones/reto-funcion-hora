@@ -1,0 +1,9 @@
+<?php
+
+function horaActual() {
+    date_default_timezone_set("America/Mexico_City");
+    $hora = date("H:i:s / Y-m-d");
+    return $hora;
+}
+echo "La hora actual es: ";
+echo horaActual();
